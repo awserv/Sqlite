@@ -1,7 +1,7 @@
 <h1 align="center">SQLite Source Repository</h1>
 
 This repository contains the complete source code for the 
-[SQLite database engine](https://sqlite.org/).  Some test scripts 
+[SQLite database engine](https://sqlite.org/).  Some  tests scripts 
 are also included.  However, many other test scripts
 and most of the documentation are managed separately.
 
