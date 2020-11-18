@@ -2,6 +2,7 @@
 #
 # Makefile for SQLITE
 #
+# asctest
 # This makefile is suppose to be configured automatically using the
 # autoconf.  But if that does not work for you, you can configure
 # the makefile manually.  Just set the parameters below to values that
